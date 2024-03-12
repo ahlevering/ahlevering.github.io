@@ -203,12 +203,12 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
-  # - _pages/about.md
-  # - _pages/news.md
-  # - _pages/dropdown.md
-  # - _pages/publications.md
-  # - _pages/cv.md
+include: # ["_pages"]
+  - _pages/about.md
+  - _pages/news.md
+  - _pages/dropdown.md
+  - _pages/publications.md
+  - _pages/cv.md
   # ToDo later: Projects
 
 exclude:
