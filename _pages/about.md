@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PostDoc at in remote sensing at <a href='https://research.vu.nl/en/persons/alex-levering'>VU Amsterdam</a>
 
 profile:
   align: right
