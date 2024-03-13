@@ -206,9 +206,11 @@ kramdown:
 include: # ["_pages"]
   - _pages/about.md
   - _pages/news.md
-  - _pages/dropdown.md
+  # - _pages/dropdown.md
   - _pages/publications.md
+  # - _pages/teaching.md
   - _pages/cv.md
+  # - _pages/projects.md
   # ToDo later: Projects
 
 exclude:

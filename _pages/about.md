@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: PostDoc at in remote sensing at <a href='https://research.vu.nl/en/persons/alex-levering'>VU Amsterdam</a>
+subtitle: PostDoc in urban remote sensing at <a href='https://research.vu.nl/en/persons/alex-levering'>VU Amsterdam</a>
 
 profile:
   align: right
