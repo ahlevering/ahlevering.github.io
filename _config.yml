@@ -82,7 +82,7 @@ orcid_id: 0000-0002-9821-7990 # your ORCID ID
 # publons_id: # your ID on Publons
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # osf_id: # your OSF ID
-research_gate_profile: https://www.researchgate.net/profile/Alex-Levering-2 # your profile on ResearchGate
+research_gate_profile: Alex-Levering-2 # your profile on ResearchGate
 # scopus_id: # your profile on Scopus
 # blogger_url: # your blogger URL
 # work_url: # work page URL
@@ -462,7 +462,7 @@ vega:
   integrity: "sha256-Yot/cfgMMMpFwkp/5azR20Tfkt24PFqQ6IQS+80HIZs="
 vega-embed:
   version: "6.24.0"
-  integrity: "sha256-FPCJ9JYCC9AZSpvC/t/wHBX7ybueZhIqOMjpWqfl3DU="
+  integrity: "sha256-FPCJ9JYCC9AZSpvC/t/wHBX7ybufeZhIqOMjpWqfl3DU="
 vega-lite:
   version: "5.16.3"
   integrity: "sha256-TvBvIS5jUN4BSy009usRjNzjI1qRrHPYv7xVLJyjUyw="
