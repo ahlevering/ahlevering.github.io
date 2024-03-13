@@ -14,7 +14,7 @@ profile:
     <p>De Boelelaan 1111, Amsterdam</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 I am a research scientist working on (interpretable) deep learning models for earth observation purposes, with a particular interest in landscape qualities, such as scenicness and liveability. I'm also interested in biases and fairness, human-machine interactions, multimodal data fusion approaches, and data-efficient learning methods. In 2024 I obtained my PhD degree from Wageningen University on the topic of [deep learning for landscape qualities](https://library.wur.nl/WebQuery/wurpubs/625396). I'm currently working at the VU Amsterdam, where I work on building change detection for cities in the Global South.
