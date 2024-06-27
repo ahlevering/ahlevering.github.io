@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description:
-years_journal: [2023, 2022, 2021, 2020, 2019, 2018]
+years_journal: [2024, 2023, 2022, 2021, 2020, 2019, 2018]
 # years_intconf: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 # years_natconf: [2023, 2022, 2021, 2017, 2016]
 nav: true
