@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Our new study on text-based scenicness mapping was published in PLOS One
-date: 2024-12-03 9:00:00+0100
+title: I gave an invited talk on text-based landscape annotations
+date: 2024-12-02 9:00:00+0100
 inline: false
 related_posts: false
 ---
