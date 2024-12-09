@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a research scientist working on (interpretable) deep learning models for earth observation purposes, with a particular interest in landscape qualities, such as scenicness and liveability. I'm also interested in biases and fairness, human-machine interactions, multimodal data fusion approaches, and data-efficient learning methods. In 2024 I obtained my PhD degree from Wageningen University on the topic of [deep learning for landscape qualities](https://library.wur.nl/WebQuery/wurpubs/625396). I'm currently working at the VU Amsterdam, where I work on socio-cultural landscape interactions using GeoAI, GIS, and earth observation methods.
+I am a research scientist working on modelling, mapping, and studying socio-cultural landscape interactions. I specialize in landscape qualities, such as livability and aesthetic beauty, especially as they are perceived by people. I'm also interested in dataset fairness (e.g. biases and confounders), human-machine interactions, multimodal data fusion approaches, and the interpretability of models. In 2024 I obtained my PhD degree from Wageningen University on the topic of [deep learning for landscape qualities](https://library.wur.nl/WebQuery/wurpubs/625396). I'm currently an assistant professor of environmental geography at the VU Amsterdam.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
