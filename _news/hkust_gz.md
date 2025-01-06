@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I've been appointed as adjunct assistant prof. at HKUST-GZ
-date: 2024-01-06 9:00:00+0100
+date: 2025-01-06 9:00:00+0100
 inline: false
 related_posts: False
 ---
