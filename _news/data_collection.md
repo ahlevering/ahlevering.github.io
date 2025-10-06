@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 🗺️ liveability mapping workshops in Nairobi, Kenya
-date: 2025-04-28 12:00:00+0100
+date: 2025-09-15 12:00:00+0100
 inline: False
 related_posts: false
 ---
